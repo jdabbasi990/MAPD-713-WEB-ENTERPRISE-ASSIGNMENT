@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/jdabbasi990/MAPD-713-WEB-ENTERPRISE-ASSIGNMENT/issues"
   },
-  "homepage": "https://github.com/jdabbasi990/MAPD-713-WEB-ENTERPRISE-ASSIGNMENT#readme"
+  "homepage": "https://github.com/jdabbasi990/MAPD-713-WEB-ENTERPRISE-ASSIGNMENT#readme",
+  "dependencies": {
+    "restify": "^11.1.0",
+    "restify-errors": "^8.0.2",
+    "save": "^2.9.0"
+  }
 }
